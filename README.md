@@ -49,6 +49,7 @@ N/A
 | RHEL9
 | RHEL8
 | RHEL7
+| RHEL6
 
 ## Supported Infrastructures
 
